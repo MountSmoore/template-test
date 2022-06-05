@@ -1,0 +1,9 @@
+html {
+    box-sizing: border-box; /* it prevents the padding to add extra width and extra height to the page */
+}
+
+body {
+    margin: 0; /* It will be zero on all four sides*/
+    min-height: 100vh; /*viewport height: Always stretching the height background to the length of the screen*/
+    /* background: dodgerblue; */
+}
